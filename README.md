@@ -72,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Added License Checker 25.0.1
 See in (https://www.npmjs.com/package/license-checker)
+
+Under MIT license
