@@ -1,0 +1,17 @@
+form.sec {
+    width: 550px;
+    border: 1px solid darkgrey;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+label.small input, label.small small {
+    width: 60px;
+}
+label.medium input[type="number"], label.medium small, label.medium span {
+    width: 80px;
+    text-align: end;
+}
+.option {
+    text-decoration: underline;
+    cursor: pointer;
+}
