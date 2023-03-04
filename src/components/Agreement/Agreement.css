@@ -1,0 +1,20 @@
+.cookie-notification {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    z-index: 999;
+}
+
+.cookie-notification button {
+    background-color: #008cba;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+    margin-left: 10px;
+}

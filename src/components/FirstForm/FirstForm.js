@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import {useState} from "react";
 
-import "./FirstForm.css";
+//import "./FirstForm.css";
 
 function FirstForm() {
     const [name, setName] = useState("");
